@@ -8,15 +8,13 @@
 
 ## ⚡Skills  
 ![Javascript](https://img.shields.io/badge/-javascript-yellow)
+![Typescript](https://img.shields.io/badge/-Typescript-blue)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-darkgreen)
 ![ExpressJs](https://img.shields.io/badge/-Express-lightgrey)
-![Redis](https://img.shields.io/badge/-Redis-red)
-![SQL](https://img.shields.io/badge/-SQL-pink)
-![Python](https://img.shields.io/badge/-Python-brightgreen)
-  
-## 🌱 I’m currently learning  
-![Typescript](https://img.shields.io/badge/-Typescript-blue)
 ![NestJs](https://img.shields.io/badge/-NestJs-%23E0234E)
+![SQL](https://img.shields.io/badge/-SQL-pink)
+![Redis](https://img.shields.io/badge/-Redis-red)
+![Python](https://img.shields.io/badge/-Python-brightgreen)
 
 ## 📫 How to reach me  
 ✉️ email : kyc5244@gmail.com.
