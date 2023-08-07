@@ -7,14 +7,15 @@
 ![Yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yechan&show_icons=true&theme=flag-india)
 
 ## ⚡Skills  
-![Javascript](https://img.shields.io/badge/-javascript-yellow)
-![Typescript](https://img.shields.io/badge/-Typescript-blue)
-![NodeJs](https://img.shields.io/badge/-NodeJs-darkgreen)
-![ExpressJs](https://img.shields.io/badge/-Express-lightgrey)
-![NestJs](https://img.shields.io/badge/-NestJs-%23E0234E)
+![Java](https://img.shields.io/badge/-java-yellow)
+![JPA](https://img.shields.io/badge/-JPA-blue)
+![Spring](https://img.shields.io/badge/-Spring-darkgreen)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-brightgreen)
+![JSP](https://img.shields.io/badge/-JSP-lightgrey)
+![MyBatis](https://img.shields.io/badge/-MyBatis-%23E0234)
 ![SQL](https://img.shields.io/badge/-SQL-pink)
-![Redis](https://img.shields.io/badge/-Redis-red)
-![Python](https://img.shields.io/badge/-Python-brightgreen)
+![Git](https://img.shields.io/badge/-Git-red)
+
 
 ## 📫 How to reach me  
 ✉️ email : kyc5244@gmail.com.
